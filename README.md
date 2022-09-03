@@ -1,6 +1,4 @@
 # Anonsurf kali linux
-Guida per installare anonsurf per kali linux
-
 
 
 #installazione
