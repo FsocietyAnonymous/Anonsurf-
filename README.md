@@ -16,4 +16,4 @@ $ anonsurf ] per aprirlo
 $ anonsurf start ] per cambiare indirizzo ip
 $ anonsurf myip ] e per vedere l'indirizzo che si 
 Sta usando
-$ anonsurf ] per fermare l'ip tor
+$ anonsurf stop ] per fermare l'ip tor
