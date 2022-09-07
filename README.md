@@ -1,4 +1,4 @@
-# Anonsurf kali linux
+# Anonsurf for linux
 
 # installazione
 
